@@ -33,9 +33,9 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 5em;
   line-height: 1em;
-  letter-spacing: .03em;
+  letter-spacing: .009em;
   margin-bottom: 2px;
 }
 
@@ -55,7 +55,7 @@ h4 {
 }
 
 p {
-  font-size: .9em;
+  font-size: .6em;
   line-height: 1.8em;
   letter-spacing: .103em;
   margin-bottom: 15px;
